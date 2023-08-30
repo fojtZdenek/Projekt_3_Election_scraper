@@ -1,3 +1,14 @@
+"""
+projekt_1.py: první projekt do Engeto Online Python Akademie
+
+author: Zdeněk Fojt
+email: zdenek.fojt@gmail.com
+discord: Zdeněk F.
+
+"""
+
+
+
 # potřebné knihovny + knihovny třetích stran instalovaných přes
 # pip install requests a pip install bs4
 import requests
